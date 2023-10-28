@@ -1,0 +1,5 @@
+﻿Este patron facilita a modifiacion, extencion y reutilizacion de componentes individuales 
+porque ya no son dependendientes de todas las demas clases.
+
+
+
